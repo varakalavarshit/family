@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+     background: linear-gradient(#F08080 0%, #87CEFA 100%);
+  }
+  #image1{
+    height:400px;
+    width:400px;
+    border-style:solid;
+    padding:5px;
+    border-radius:80px;
+    border-color:#1A237E;
+  }
+  
